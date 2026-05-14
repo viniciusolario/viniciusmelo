@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "selecao": "Brasil",
+    "continente": "América do Sul",
+    "titulos": 5
+  },
+  {
+    "id": 2,
+    "selecao": "Alemanha",
+    "continente": "Europa",
+    "titulos": 4
+  },
+  {
+    "id": 3,
+    "selecao": "Itália",
+    "continente": "Europa",
+    "titulos": 4
+  },
+  {
+    "id": 4,
+    "selecao": "Argentina",
+    "continente": "América do Sul",
+    "titulos": 3
+  },
+  {
+    "id": 5,
+    "selecao": "França",
+    "continente": "Europa",
+    "titulos": 2
+  },
+  {
+    "id": 6,
+    "selecao": "Uruguai",
+    "continente": "América do Sul",
+    "titulos": 2
+  },
+  {
+    "id": 7,
+    "selecao": "Espanha",
+    "continente": "Europa",
+    "titulos": 1
+  },
+  {
+    "id": 8,
+    "selecao": "Inglaterra",
+    "continente": "Europa",
+    "titulos": 1
+  },
+  {
+    "id": 9,
+    "selecao": "Portugal",
+    "continente": "Europa",
+    "titulos": 0
+  },
+  {
+    "id": 10,
+    "selecao": "Marrocos",
+    "continente": "África",
+    "titulos": 0
+  }
+]
